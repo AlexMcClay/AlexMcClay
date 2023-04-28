@@ -4,6 +4,7 @@
 
 - 🎓 Bachelor of Computer Science, Major in Artificial Intelligence @ University of Adelaide.
 - 🔭 I’m currently looking for work
+- 👯 Most of my repositories are private
 
 <!--
 **AlexMcClay/AlexMcClay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
