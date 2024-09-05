@@ -3,8 +3,7 @@
 ### Software Engineer
 
 - 🎓 Bachelor of Computer Science, Major in Artificial Intelligence @ University of Adelaide.
-- 🔭 Currently working as a Software Engineer at Corcillum Systems
-
+- 🔭 Currently Looking for Work
 <!--
 **AlexMcClay/AlexMcClay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
